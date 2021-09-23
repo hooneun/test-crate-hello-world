@@ -5,7 +5,7 @@ edition = "2018"
 authors = ["hooneun"]
 
 description = "A Simple Hello World Crate"
-repository = "https://github.com/hooneun/test_crate_hello_world"
+repository = "https://github.com/hooneun/test-crate-hello-world"
 keywords = ["hello", "world"]
 license = "Apache-2.0"
 
